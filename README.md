@@ -6,7 +6,7 @@
 
 - c++/qt研发程序猿一枚
 - windows和linux平台，linux是近几年工作一直在做的事情(说实话用多了linux，开始不习惯windows了~~~)
-- 找到这个博客主题还挺符合我的习惯，但文章目录不固定有点不爽，无奈不太会web开发，先用着吧
+- 博客使用docsify搭建，以文档形式展现，简单好用，更专注写文档
 - 了解更多我：[Github](https://github.com/xionglinlin/)  [Gitee](https://gitee.com/xlinlin)  [CSDN](https://blog.csdn.net/u011720508)
 
 <font size=5>**博客搭建工具**</font>  
