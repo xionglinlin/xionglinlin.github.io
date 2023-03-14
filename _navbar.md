@@ -1,6 +1,6 @@
 <!-- _navbar.md -->
 
-- [**首页**](/README.md)
+- [**首页**](/)
 
 - **链接到我**
   - [Github](https://github.com/xionglinlin)
