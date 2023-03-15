@@ -138,7 +138,7 @@ git checkout -b <new branch> origin/dev
 git checkout -
 ```
 
-分支合并
+## 分支合并
 
 ```shell
 # 将branch的代码合并到当前所在的分支，如果有冲突，手动解决冲突后，在add/commit
